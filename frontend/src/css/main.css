@@ -1,0 +1,15 @@
+body {
+  background-color: aliceblue;
+}
+
+.rounded-md {
+  border-radius: 1.5rem;
+}
+
+.card {
+  border-radius: 1.5rem;
+}
+.form-control,
+.btn {
+  border-radius: 1rem;
+}
